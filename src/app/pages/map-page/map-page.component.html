@@ -1,0 +1,37 @@
+<div class="app-page">
+    <div #map id="map-canvas"></div>
+    <div class="map-loader-container" *ngIf="!mapLoaded">
+        <div class="map-loader"></div>
+    </div>
+    <div class="map-pill map-user-pill">
+        <div class="map-user-img" (click)="toggleSearch()">
+            <img [src]="authUser?.photoURL" />
+        </div>
+        <div class="map-user-pill-content">
+            <div class="map-user-display-name">{{ authUser?.displayName }}</div>
+            <div class="map-user-display-desc">1 Package to be delivered</div>
+        </div>
+        <div class="map-user-pill-logout" (click)="onLogout()">
+            <span class="material-icons">exit_to_app</span>
+        </div>
+    </div>
+    <div class="map-places-pill" [ngClass]="{ 'map-places-search-visible': togglePlacesSearch }">
+        <span class="material-icons">room</span>
+        <!-- places API component -->
+        <input type="text" 
+        [(ngModel)]="placesText" 
+        #placesRef="ngx-places" 
+        placeholder="Set truck location..." 
+        ngx-google-places-autocomplete 
+        (onAddressChange)="handleAddressChange($event)"/>
+        <!-- end of places API component -->
+        <span *ngIf="placesText && placesText.length > 0" (click)="clearPlacesField()" class="material-icons close-btn">close</span>
+    </div>
+    <div class="map-pill" [ngClass]="{ 'map-pill-show': showMapPill }">
+        <div class="youps-pill-logo"></div>
+        <div class="youps-pill-content">
+            <div class="youps-pill-label">Your package is on its way!</div>
+            <div class="youps-pill-distance-time">{{ distance }} / {{ time }}</div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+<svg id="e42mfw30s5881"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" width="128" height="128">
+    <style>
+        <![CDATA[#e42mfw30s5884_to {animation: e42mfw30s5884_to__to 3500ms linear infinite normal forwards}@keyframes e42mfw30s5884_to__to { 0% {transform: translate(139.509000px,189.495563px)} 28.571429% {transform: translate(139.509000px,189.495563px)} 71.428571% {transform: translate(113.265300px,163.265300px)} 100% {transform: translate(113.265300px,163.265300px)} }#e42mfw30s5884_ts {animation: e42mfw30s5884_ts__ts 3500ms linear infinite normal forwards}@keyframes e42mfw30s5884_ts__ts { 0% {transform: scale(1,1)} 28.571429% {transform: scale(1,1)} 71.428571% {transform: scale(1.700000,1.700000)} 100% {transform: scale(1.700000,1.700000)} }#e42mfw30s5884 {animation: e42mfw30s5884_f_o 3500ms linear infinite normal forwards}@keyframes e42mfw30s5884_f_o { 0% {fill-opacity: 0.750000} 28.571429% {fill-opacity: 0.750000} 71.428571% {fill-opacity: 0} 100% {fill-opacity: 0} }#e42mfw30s5885_to {animation: e42mfw30s5885_to__to 3500ms linear infinite normal forwards}@keyframes e42mfw30s5885_to__to { 0% {transform: translate(139.509000px,189.495563px)} 42.857143% {transform: translate(113.265300px,163.265300px)} 100% {transform: translate(113.265300px,163.265300px)} }#e42mfw30s5885_ts {animation: e42mfw30s5885_ts__ts 3500ms linear infinite normal forwards}@keyframes e42mfw30s5885_ts__ts { 0% {transform: scale(1,1)} 42.857143% {transform: scale(1.700000,1.700000)} 100% {transform: scale(1.700000,1.700000)} }#e42mfw30s5885 {animation: e42mfw30s5885_f_o 3500ms linear infinite normal forwards}@keyframes e42mfw30s5885_f_o { 0% {fill-opacity: 0.750000} 42.857143% {fill-opacity: 0} 100% {fill-opacity: 0} }#e42mfw30s5886_to {animation: e42mfw30s5886_to__to 3500ms linear infinite normal forwards}@keyframes e42mfw30s5886_to__to { 0% {transform: translate(139.509000px,189.495563px)} 57.142857% {transform: translate(139.509000px,189.495563px)} 100% {transform: translate(113.265300px,163.265300px)} }#e42mfw30s5886_ts {animation: e42mfw30s5886_ts__ts 3500ms linear infinite normal forwards}@keyframes e42mfw30s5886_ts__ts { 0% {transform: scale(1,1)} 57.142857% {transform: scale(1,1)} 100% {transform: scale(1.700000,1.700000)} }#e42mfw30s5886 {animation: e42mfw30s5886_f_o 3500ms linear infinite normal forwards}@keyframes e42mfw30s5886_f_o { 0% {fill-opacity: 0.750000} 57.142857% {fill-opacity: 0.750000} 100% {fill-opacity: 0} }]]>
+    </style>
+    <g id="e42mfw30s5882" transform="matrix(1 0 0 1 -113 -163)">
+        <circle id="e42mfw30s5883" r="34" transform="matrix(1 0 0 1 177 227)" fill="rgb(60,28,0)" stroke="none" stroke-width="1"/>
+        <g id="e42mfw30s5884_to" transform="translate(139.509000,189.495563)">
+            <g id="e42mfw30s5884_ts" transform="scale(1,1)">
+                <circle id="e42mfw30s5884" r="34" transform="translate(37.491000,37.491000)" fill="rgb(60,28,0)" fill-opacity="0.75" stroke="none" stroke-width="1"/>
+            </g>
+        </g>
+        <g id="e42mfw30s5885_to" transform="translate(139.509000,189.495563)">
+            <g id="e42mfw30s5885_ts" transform="scale(1,1)">
+                <circle id="e42mfw30s5885" r="34" transform="translate(37.491000,37.491000)" fill="rgb(60,28,0)" fill-opacity="0.75" stroke="none" stroke-width="1"/>
+            </g>
+        </g>
+        <g id="e42mfw30s5886_to" transform="translate(139.509000,189.495563)">
+            <g id="e42mfw30s5886_ts" transform="scale(1,1)">
+                <circle id="e42mfw30s5886" r="34" transform="translate(37.491000,37.491000)" fill="rgb(60,28,0)" fill-opacity="0.75" stroke="none" stroke-width="1"/>
+            </g>
+        </g>
+        <g id="e42mfw30s5887" display="none" transform="matrix(1 0 0 1 156.92900000000000 215.25999999999999)">
+            <text id="e42mfw30s5888" dx="0" dy="0" font-family="QuicksandBook-Regular, Quicksand" font-size="25" transform="matrix(1 0 0 1 0 18)" fill="rgb(255,255,255)" stroke="none" stroke-width="1">
+                <![CDATA[UU]]>
+            </text>
+            <path id="e42mfw30s5889" d="M96.942000,502.441000C96.942000,502.441000,96.524000,509.591000,103.565000,509.591000C110.606000,509.591000,110.333000,502.441000,110.333000,502.441000" transform="matrix(1 0 0 1 -83.52200000000001 -482.50299999999999)" fill="none" stroke="rgb(255,255,255)" stroke-width="1.500000"/>
+        </g>
+    </g>
+</svg>

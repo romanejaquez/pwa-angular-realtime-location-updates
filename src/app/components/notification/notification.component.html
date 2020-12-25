@@ -1,0 +1,10 @@
+<div class="youps-notification-panel" [ngClass]="{ 'show-notification-panel': showPanel }">
+    <div class="youps-notification-logo"></div>
+    <div class="youps-notification-panel-content">
+        <div class="youps-notification-title">{{ notification?.title }}</div>
+        <div class="youps-notification-body">{{ notification?.body }}</div>
+    </div>
+    <div class="youps-notification-close" (click)="dismissNotification()">
+        <span class="material-icons">close</span>
+    </div>
+</div>

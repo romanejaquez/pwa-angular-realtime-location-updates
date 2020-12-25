@@ -1,0 +1,13 @@
+<div class="app-page">
+    <div class="welcome-page-container">
+        <div class="welcome-page-top">
+            <div class="welcome-user">
+                <img [src]="(authUser | async)?.photoURL || './assets/imgs/avatar-photo.jpg'" />
+                <div class="youps-user-badge"></div>
+            </div>
+            <div class="welcome-label">Welcome,</div>
+            <div class="welcome-display-name">{{ (authUser | async)?.displayName || 'Anonymous' }}</div>
+        </div>
+        <button (click)="onTrackPackage()" class="common-btn base-btn">Track Your Package</button>
+    </div>
+</div>

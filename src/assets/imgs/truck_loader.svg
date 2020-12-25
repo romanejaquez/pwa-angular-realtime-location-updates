@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="truck_loader" transform="translate(392 -50)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="40" cy="40" r="40" transform="translate(-392 50)" fill="#6a3f1b"/>
+    <g id="local_shipping-24px" transform="translate(-377.039 65.605)">
+      <path id="Path_1" data-name="Path 1" d="M0,0H49.483V49.483H0Z" fill="none"/>
+      <path id="Path_2" data-name="Path 2" d="M40.174,12.247H33.989V4H5.124A4.136,4.136,0,0,0,1,8.124V30.8H5.124a6.185,6.185,0,0,0,12.371,0H29.865a6.185,6.185,0,0,0,12.371,0h4.124V20.494ZM11.309,33.9A3.093,3.093,0,1,1,14.4,30.8,3.089,3.089,0,0,1,11.309,33.9ZM39.143,15.34l4.041,5.154h-9.2V15.34ZM36.05,33.9A3.093,3.093,0,1,1,39.143,30.8,3.089,3.089,0,0,1,36.05,33.9Z" transform="translate(1.062 4.247)" fill="#fff365"/>
+    </g>
+  </g>
+</svg>

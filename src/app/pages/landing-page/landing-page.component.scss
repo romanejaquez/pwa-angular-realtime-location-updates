@@ -1,0 +1,50 @@
+@import './../../../assets/styles/colors.scss';
+
+.landing-page-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 32px;
+
+    .landing-page-top {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .landing-page-youps-logo-circle {
+            background: url('./../../../assets/imgs/youps_small_logo.svg') no-repeat;
+            background-size: cover;
+            background-position: center;
+            width: 100px;
+            height: 100px;
+            margin-bottom: 32px;
+        }
+        
+        .landing-page-youps-logo-text {
+            background: url('./../../../assets/imgs/youps_text_brown.svg') no-repeat;
+            background-size: cover;
+            background-position: center;
+            width: 130px;
+            height: 34px;
+        }
+        
+        .landing-page-youps-truck {
+            background: url('./../../../assets/imgs/youps_truck.png') no-repeat;
+            background-size: cover;
+            background-position: center;
+            width: 300px;
+            height: 300px;
+        }    
+    
+        .landing-page-youps-msg {
+            color: dimgray;
+            width: 200px;
+            margin-bottom: 32px;
+        }
+    }
+}

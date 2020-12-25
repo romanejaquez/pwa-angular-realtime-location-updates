@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="youps_small_logo" transform="translate(451 -272)">
+    <g id="youps_loader" transform="translate(53 10)">
+      <g id="youps_custom_pin" transform="translate(-58 -36)">
+        <g id="Group_3" data-name="Group 3" transform="translate(-446.002 297.998)">
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="16.5" cy="16.5" r="16.5" transform="translate(0.002 0.002)" fill="#6a3f1b"/>
+          <g id="local_shipping-24px" transform="translate(6.911 6.946)">
+            <path id="Path_1" data-name="Path 1" d="M0,0H19.811V19.811H0Z" fill="none"/>
+            <path id="Path_2" data-name="Path 2" d="M16.684,7.3H14.208V4H2.651A1.656,1.656,0,0,0,1,5.651v9.08H2.651a2.476,2.476,0,0,0,4.953,0h4.953a2.476,2.476,0,0,0,4.953,0H19.16V10.6ZM5.127,15.969a1.238,1.238,0,1,1,1.238-1.238A1.237,1.237,0,0,1,5.127,15.969ZM16.271,8.54,17.889,10.6H14.208V8.54Zm-1.238,7.429a1.238,1.238,0,1,1,1.238-1.238A1.237,1.237,0,0,1,15.033,15.969Z" transform="translate(-0.175 -0.698)" fill="#fff365"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+@import './../../../assets/styles/colors.scss';
+
+.welcome-page-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 32px;
+    
+    .welcome-page-top {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .welcome-user {
+            position: relative;
+            margin-bottom: 32px;
+
+            .youps-user-badge {
+                position: absolute;
+                bottom: 0;
+                right: 0px;
+                width: 50px;
+                height: 50px;
+                background: url('./../../../assets/imgs/youps_small_logo.svg') no-repeat;
+                background-size: cover;
+                background-position: center;
+            }
+
+            img {
+                width: 100px;
+                height: 100px;
+                border-radius: 50%;
+                border: 10px solid #c19a7d;
+            }
+        }
+
+        .welcome-label {
+            color: dimgray;
+        }
+
+        .welcome-display-name {
+            color: $youps-main-brown;
+            font-size: 1.8em;
+        }
+    }
+}

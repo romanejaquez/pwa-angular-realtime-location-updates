@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+@import './assets/styles/colors.scss';
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: $youps-main-brown;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.app-page {
+    background: #FFF;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.common-btn {
+    font-family: 'Poppins', sans-serif;
+    border-radius: 50px;
+    padding: 12px 24px;
+    width: 100%;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+
+.base-btn {
+    background: $youps-secondary-brown !important;
+    color: #FFF !important;
+}
+
+img {
+    max-width: 100%;
+}
+
+input[type="text"]:focus, input[type="password"]:focus,
+textarea:focus, select:focus {
+  font-size: 16px;
+}
